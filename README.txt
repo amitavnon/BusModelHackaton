@@ -1,3 +1,21 @@
+Optimizing Public Transportation Routes
+
+
+Motivation: Better Public Transportation
+You’ve always wondered why you can wait for 1 hour for the 9 bus from Rehavia, only to find
+that three of them arrive together one after the other, why some buses are packed while others are
+constantly empty, why getting to Mount Scopus can take a whole day, why the bus driver always
+closes the back door before the last passenger boarded, or in general whether public transportation
+in Israel can be improved. After 8 weeks of the IML course, you decide that machine learning can
+help with (at least some) of these problems! So you start the HU.BER company, which will use
+machine learning skills learned at the HU to improve various aspects of public transportation.
+
+
+Tasks:
+1. Predicting Passenger Boardings at Bus Stops
+2. Predicting Trip Duration
+
+
 files list:
 create_models_error_bars.py
 create_new_table.py
